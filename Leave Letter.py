@@ -1,4 +1,3 @@
-print("leave letter------++++++++---------")
 print("\t\t\t  LEAVE LETER\t\t")
 print()
 print()
