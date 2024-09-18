@@ -1,4 +1,5 @@
-print("\t\t\t  LEAVE LETER\t\t")
+print("\t\t\t  LEAVE LETTER\t\t")
+print()
 print()
 print()
 print("From:")
