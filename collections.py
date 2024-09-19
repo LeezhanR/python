@@ -46,6 +46,7 @@ print(List)
 List.append(10)
 List.appendleft(1)
 print(List)
+print()
 
 
 
